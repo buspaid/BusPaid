@@ -1,0 +1,6 @@
+
+
+
+
+nodemon ./bin/index.js
+
